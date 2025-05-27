@@ -43,6 +43,22 @@ Key Features:
 - Tracks level
 - Displays level after each loop
 
+Project #6: Create Task
+Summary: This game simulates a capybara cafe providing the user with a multitude of options to choose from. Whether its choosing a 
+capybara companion or ordering off of the cafes menu. 
+Key Features:
+- Input and Output dependent on user input
+- Randomly generates options for user
+- Tallies up users total
+
+Project #7: Dog Breeds
+Summary: This simulation is aimed at user who are currently or will be in the future in search of a dog to own. It allows the user 
+to browse through manu dog breeds based on their preferences for size, temperament and more. The user can also be recomended a 
+randomnly generated do breed based on the users preferences
+Key Features:
+- Creates filtered lists based on users input
+- Randomly generates recomendations
+
 
 
 
